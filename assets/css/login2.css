@@ -1,0 +1,46 @@
+body {
+  background-image: url('../bg/bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+#tombol {
+  float: right;
+  background-color: grey
+}
+
+#tx {
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+
+#cov {
+  padding: 2% 2% 2% 2%;
+  background-color: rgb(200,200,200);
+  margin-top: 5.5%; 
+  width: 30%;
+  float: right;
+  height: 600px;
+  margin-right: 3%;
+}
+
+#cek {
+  margin-top: 5%;
+  width: 100%;
+}
+
+
+@media (max-width: 800px) and (max-height: 1080px){
+    #cov {
+      padding: 6% 8% 6% 8%;
+      background-color: rgba(200,200,200,0.8);
+      border-radius: 25px;
+      margin-top: 25%;
+      margin-right: 10%;
+      width: 80%;
+      margin-bottom: 5%;
+      height: 40%;
+    } 
+}

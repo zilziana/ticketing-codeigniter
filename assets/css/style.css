@@ -1,0 +1,144 @@
+body {
+    background-image: url(../bg/background-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+
+h3 {
+    margin: 100px 0 25px;
+}
+
+#one {
+    margin-top: 6%;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 50%;
+    background-color: white;
+    height: 2px;
+    margin-bottom: 50px;
+}
+
+form {
+    padding: 50px;
+}
+
+.form-group {
+    padding: 8px 50px;
+}
+
+.wrap {
+    color: white;
+    background-color: rgb(173, 31, 31);
+    border: none;
+    border-radius: 10px;
+    margin: 0 200px 50px; 
+}
+
+.navbar {
+    border-bottom: 1px solid rgba(228, 27, 19, 0.2); 
+}
+
+.btn-md:hover {
+    background-color: #d8d8d8;
+}
+
+.nav-link {
+    color: black
+} 
+
+h3 {
+    margin: 100px 0 25px;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 50%;
+    background-color: rgba(228, 27, 19, 0.2);
+    height: 2px;
+    margin-bottom: 50px;
+}
+
+form {
+    padding: 50px;
+}
+
+.form-group {
+    padding: 8px 50px;
+}
+
+.wrap {
+    color: white;
+    background-color: rgba(228, 27, 19, 0.79);
+    border: none;
+    border-radius: 10px;
+    margin: 0 200px 50px;
+    -webkit-box-shadow: 2px 2px 4px 65x rgba(204, 204, 204, 0.3);
+    -moz-box-shadow: 2px 2px 4px 5px rgba(204, 204, 204, 0.3);
+    box-shadow: 2px 2px 4px 5px rgba(204, 204, 204, 0.3);
+}
+
+.navbar {
+    border-bottom: 1px solid rgba(228, 27, 19, 0.2); 
+}
+
+.btn-md:hover {
+    background-color: #d8d8d8;
+}
+
+.table thead tr th {
+    border-top: none;
+}
+  
+.table tbody tr td {
+    border: none;
+} 
+  
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: rgba(228, 27, 19, 0.32);
+}
+
+.hr {
+    border-bottom: 2px solid rgba(228, 27, 19, 0.2);
+    padding: 20px 0;
+}
+
+.btn-danger {
+    background-color: rgba(228, 27, 19);
+}
+
+p {
+    margin-top: 30px;
+}
+
+.fas:hover {
+    color: black !important;
+}
+
+.radio-input {
+    border-radius: 3px;
+    padding-left: 8px;
+    text-decoration: none;
+    border: none;
+}
+
+.far {
+    font-size: 200px;
+    color: rgba(228, 27, 19, 0.7);
+}
+
+.feed {
+    margin: 150px 0;
+}
+
