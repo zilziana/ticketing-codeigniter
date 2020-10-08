@@ -2,7 +2,7 @@
 	$hostName = "localhost";
 	$username = "root";
 	$password = "";
-	$dbName = "qqdgtzmy_ticketing";
+	$dbName = "ticket";
 
 	$connect = mysqli_connect($hostName,$username,$password,$dbName);
 	
